@@ -17,7 +17,7 @@
 
 Application Insights の接続文字列、Azure Storage の接続文字列を設定してください。
 
-  ```bash
+  ```
   {
     "MicrosoftAppType": "",
     "MicrosoftAppId": "",
